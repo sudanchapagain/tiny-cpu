@@ -52,4 +52,4 @@ All instructions are 1 byte except ones that need an address or immediate.
 Resource
 --------
 
-- <https://unidel.edu.ng/focelibrary/books/Digital%20Design%20and%20Computer%20Architecture%20(Harris,%20Sarah,%20Harris,%20David)%20(Z-Library).pdf>
+- [Harris & Harris](https://unidel.edu.ng/focelibrary/books/Digital%20Design%20and%20Computer%20Architecture%20(Harris,%20Sarah,%20Harris,%20David)%20(Z-Library).pdf)
