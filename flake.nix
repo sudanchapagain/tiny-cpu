@@ -9,9 +9,6 @@
           iverilog
           gtkwave
           verible
-          xdot
-          graphviz
-          yosys
           nasmfmt
         ];
       };
